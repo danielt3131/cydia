@@ -1,3 +1,35 @@
+Package: com.danielt3131.helloworld
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Daniel Thompson
+Depends: mobilesubstrate
+Filename: ./debs/com.danielt3131.helloworld.deb
+Size: 42130956
+MD5sum: a7a287181b0dc4e51ca361c783626a24
+SHA1: 6ef3e83f70a3c0150d22b1694ae2e91a5f30c6be
+SHA256: da7c97b8796a1afd99c40cb4bfd19fe8337e44889838610792bfd62073295f4a
+Section: Apps
+Description: Helloworld
+Author: Daniel Thompson
+Depiction: https://danielt3131.github.io/cydia/depictions/?p=com.danielt3131.helloworld
+Name: Hello World
+
+Package: com.danielt3131.scarlett
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Daniel Thompson
+Depends: mobilesubstrate
+Filename: ./debs/com.danielt3131.scarlett.deb
+Size: 42190628
+MD5sum: 3a45e85bd04503f36305720755b2b650
+SHA1: 44fe5433f49c1fbaa466269a484322ddf3f83157
+SHA256: 626270b2febbb4459849face0e89c57ade6565ce6e59b924eff71fb44ca34714
+Section: Apps
+Description: Made for scarlett
+Author: Daniel Thompson
+Depiction: https://danielt3131.github.io/cydia/depictions/?p=com.danielt3131.scarlett
+Name: Scarlett
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
