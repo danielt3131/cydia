@@ -34,12 +34,12 @@ Package: com.danielt3131.daniels-essential-repos
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Daniel Thompson
-Depends: mobile-substrate
+Depends: mobilesubstrate
 Filename: ./debs/com.danielt3131.daniels-essential-repos.deb
-Size: 2824
-MD5sum: 9ac2051693f819ef89524989b0d80515
-SHA1: 568bc2f78ca8a59c40ba400a83032f76b15b500b
-SHA256: e6c2db51db78414fc9a1d1cce6cea85bd1b502a99bc7ddac4d4e0020ed29b386
+Size: 2828
+MD5sum: 3074e56bc60255f2c3877332897eb809
+SHA1: 2a27ce8245f011a09f30c4738c40b9f0025e8184
+SHA256: 547f6aa6e863f1d975fa6dac2f401802a99887db690c39fa997b3f9ed8619fe9
 Section: Apps
 Description: Installs Daniel's Essential Repos
 Author: Daniel Thompson
@@ -50,12 +50,12 @@ Package: com.danielt3131.daniels-essential-tweaks
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Daniel Thompson
-Depends: mobilesubstrate, com.aditkamath.flame, com.alex.tweakcount2, com.bingner.snappy, com.cannathea.afc2d-arm64, com.captinc.batchomatic, com.chpwn.iconsupport, com.cpdigitaldarkroom.taptapflip, com.easy-z.cleanplayer, com.golddavid.manila, com.jailbreak365.safeccmodules, com.jakeashacks.realcc, com.julioverne.gravity, com.julioverne.spotilife, com.justinpetkovic.cameratools, com.laughingquoll.sunflower, com.linusyang.appinst, com.linusyang.localeutf8, com.macciti.lotus, com.matchstic.xenhtml, com.muirey03.iconsupportfix, com.muirey03.smallsiri, com.p2kdev.fivedock13, com.pw5a29.speedintensifier, com.rpetrich.rocketbootstrap, com.ryst.shypagedots, com.saurik.substrate.safemode, com.spark.libpackageinfo, com.spark.sleepytime, com.spark.snowboard, me.alfhaily.cercube, me.alfhaily.rocket, me.nepeta.libmitsuha, me.nepeta.libnepeta, me.nepeta.mitsuhainfinity, net.angelxwind.appsyncunified, org.thebigboss.libcolorpicker, org.thebigboss.repo.icons, org.thebigboss.swipeformore, ws.hbang.common, ws.hbang.newterm
+Depends: mobilesubstrate, com.aditkamath.flame, com.alex.tweakcount2, com.cannathea.afc2d-arm64, com.captinc.batchomatic, com.chpwn.iconsupport, com.cpdigitaldarkroom.taptapflip, com.easy-z.cleanplayer, com.golddavid.manila, com.jailbreak365.safeccmodules, com.jakeashacks.realcc, com.julioverne.gravity, com.julioverne.spotilife, com.justinpetkovic.cameratools, com.laughingquoll.sunflower, com.linusyang.appinst, com.linusyang.localeutf8, com.macciti.lotus, com.matchstic.xenhtml, com.muirey03.iconsupportfix, com.muirey03.smallsiri, com.p2kdev.fivedock13, com.pw5a29.speedintensifier, com.rpetrich.rocketbootstrap, com.ryst.shypagedots, com.saurik.substrate.safemode, com.spark.libpackageinfo, com.spark.sleepytime, com.spark.snowboard, me.alfhaily.cercube, me.alfhaily.rocket, me.nepeta.libmitsuha, me.nepeta.libnepeta, me.nepeta.mitsuhainfinity, net.angelxwind.appsyncunified, org.thebigboss.libcolorpicker, org.thebigboss.repo.icons, org.thebigboss.swipeformore, ws.hbang.common, ws.hbang.newterm2
 Filename: ./debs/com.danielt3131.daniels-essential-tweaks.deb
-Size: 2544
-MD5sum: b3bf35060c112aa0bda6c6bc0f9d62f9
-SHA1: e16b1a4840d349f881b688ed2fa0cb0e7e1a74fe
-SHA256: fe7ff0994ab4062437f279d82bba485810ac74fe47ea6cc6fe88fdc46f9f3654
+Size: 2512
+MD5sum: 19d5c083cc9cc5fcced1d5551a34d633
+SHA1: fa6813c7db2d08322830e883b6f2b92977661b50
+SHA256: d7881a0140af75b3cd5c86377db93f27efc146820a0d027fa5259692c256900c
 Section: Apps
 Description: Installs Daniel's Essential Tweaks
 Author: Daniel Thompson
@@ -66,12 +66,12 @@ Package: com.danielt3131.daniels-install-essentials
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Daniel Thompson
-Depends: mobilesubstrate, com.danielt3131.daniels-essentials-repos, com.danielt3131.daniels-essentials-tweaks, com.danielt3131.daniels-essentials-applications, com.danielt3131.daniels-essentials-console-commands
+Depends: mobilesubstrate, com.danielt3131.daniels-essential-repos, com.danielt3131.daniels-essential-tweaks, com.danielt3131.daniels-essential-applications, com.danielt3131.daniels-essential-console-commands
 Filename: ./debs/com.danielt3131.daniels-install-essentials.deb
-Size: 2060
-MD5sum: 0383fd49d3092c1bd180e358c3a43396
-SHA1: b12f7494ba42c314b685b7559cb182a35eb0772c
-SHA256: fb063fbd8cc2060c1fcae79cc85fd101ddf71d819d1fa94e80a30d5e84501807
+Size: 2048
+MD5sum: 938c37d2c4f3b9c67563356786b294d6
+SHA1: bb5fa63cf1aa3e59578f3e1ace669ef0ca0e5b7c
+SHA256: d56a1ea597a6141cb477dcc9c84c74a260bf5ba3bdb10f1729d997554d1d5c3a
 Section: Apps
 Description: Installs Daniel's Essentials
 Author: Daniel Thompson
